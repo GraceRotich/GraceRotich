@@ -39,7 +39,7 @@ I'm currently enhancing business and energy solutions through Machine Learning p
 
 ### 📞 Connect with Me
 
-- **Email:** [gracerotich@gmail.com](mailto:gracerotich@gmail.com)
+- **Email:** [gracerotich@gmail.com](mailto:gracerotichj@gmail.com)
 - **LinkedIn:** [Grace Rotich](https://www.linkedin.com/in/grace-rotich-a877041ba/)
 
 ---
