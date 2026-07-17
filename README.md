@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Grace Rotich</h1>
 
-<p align="center">A passionate Data Scientist and Electrical Engineer dedicated to innovative solutions in data science and the energy sector.</p>
+<p align="center">A passionate Data Analytics Engineer and Electrical Engineer dedicated to innovative solutions in data science and the energy sector.</p>
 
 ---
 
